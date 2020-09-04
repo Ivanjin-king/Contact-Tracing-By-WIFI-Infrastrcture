@@ -9,7 +9,7 @@ The follow snapshot from a University really does show the impact of COVID !
 **Early of March:** everything seems to be normal<br />
 **End of March:** Lockdown start, students and staff have to stay at home <br />
 **Early of May:** security level decrease to 2 from 3<br />
-**Early of June:** Winter break (here you could know I live in southern hemisphere)<br />
+**Early of June:** Winter break (here you could see I live in southern hemisphere)<br />
 
 ### Background Story:
 tbd
