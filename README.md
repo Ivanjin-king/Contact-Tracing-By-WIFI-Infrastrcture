@@ -4,6 +4,9 @@ Here I'd like to share some experience on leveraging WIFI Infrasturce for your c
 
 <img src="https://raw.githubusercontent.com/Ivanjin-king/Contact-Tracing-By-WIFI-Infrastrcture/master/pic/Screen%20Shot%202020-09-04%20at%208.39.13%20PM.png">
 
+#### Background Story:
+tbd
+
 ### Solution:
 Python + TimescaleDB + Grafana
 
