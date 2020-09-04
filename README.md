@@ -1,4 +1,4 @@
-# Contact-Tracing-By-WIFI-Infrastrcture
+# Contact-Tracing-Over-WIFI-Infrastrcture
 What solution are your organization using for Contact Tracing during Covid-19? QR code scan, paper with pen or others?
 Here I'd like to share some experience on leveraging WIFI Infrasturce for your contact tracing.
 
