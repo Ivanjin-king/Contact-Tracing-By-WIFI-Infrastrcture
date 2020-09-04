@@ -4,12 +4,12 @@ Here I'd like to share some experience on leveraging WIFI Infrasturce for your c
 
 The follow snapshot from a University really does show the impact of COVID !
 <img src="https://raw.githubusercontent.com/Ivanjin-king/Contact-Tracing-By-WIFI-Infrastrcture/master/pic/Screen%20Shot%202020-09-04%20at%208.39.13%20PM.png">
-Timeline:
+Timeline:<br />
 Early of Feb: students come back from Chrismas and new year holiday gradually<br />
-Early of March: everything seems to be normal
-End of March: Lockdown start, students and staff have to stay at home 
-Early of May: security level decrease to 2 from 3, 
-Early of June: Winter break (here you could know I live in southern hemisphere)
+Early of March: everything seems to be normal<br />
+End of March: Lockdown start, students and staff have to stay at home <br />
+Early of May: security level decrease to 2 from 3<br />
+Early of June: Winter break (here you could know I live in southern hemisphere)<br />
 
 ### Background Story:
 tbd
