@@ -2,7 +2,7 @@
 What solution are your organization using for Contact Tracing during Covid-19? QR code scan, paper with pen or others?
 Here I'd like to share some experience on leveraging WIFI Infrasturce for contact tracing.
 
-The following snapshot is about client count **trend**in an University that really does show the impact of COVID !
+The following snapshot is a bird view of client count **trend** in an University that really does show the impact of COVID !
 <img src="https://raw.githubusercontent.com/Ivanjin-king/Contact-Tracing-By-WIFI-Infrastrcture/master/pic/Screen%20Shot%202020-09-04%20at%208.39.13%20PM.png">
 #### Timeline:
 **Early of Feb:** students come back from Chrismas and new year holiday gradually<br />
