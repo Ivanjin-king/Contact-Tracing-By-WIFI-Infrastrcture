@@ -16,7 +16,7 @@ We were frustrated with Cisco Prime Infrasturce which reports accummlated client
 
 Until one day, we recevied an anouncement about a positive Covid person who presented at "location" between 11am - 12am. We realized we had all of the data which can help outline the users appeared there during the window.
 
-Now, this solution has became one of most important application as the Contact tracing...
+Now, this solution has became one of most important applications as the Contact tracing...
 
 ### Solution:
 Python + TimescaleDB + Grafana
